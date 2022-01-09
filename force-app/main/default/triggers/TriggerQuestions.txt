@@ -1,0 +1,1 @@
+1-Trigger to check that contact last name should not be equal to INVALID NAME string.
