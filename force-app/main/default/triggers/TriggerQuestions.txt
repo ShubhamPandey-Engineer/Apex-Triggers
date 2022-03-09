@@ -1,1 +1,5 @@
 1-Trigger to check that contact last name should not be equal to INVALID NAME string.
+
+2-Write a trigger in which if an account that has related contacts and the user tries to delete that account it throws you an error "Account cannot be deleted".
+
+
